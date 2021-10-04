@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dubois.bjonathan@gmail.com
+	name = Jonathan Dubois
